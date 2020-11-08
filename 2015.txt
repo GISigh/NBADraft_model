@@ -1,0 +1,62 @@
+,,,Round 1,Round 1,,Totals,Totals,Totals,Totals,Totals,Shooting,Shooting,Shooting,Per Game,Per Game,Per Game,Per Game,Advanced,Advanced,Advanced,Advanced
+Rk,Pk,Tm,Player,College,Yrs,G,MP,PTS,TRB,AST,FG%,3P%,FT%,MP,PTS,TRB,AST,WS,WS/48,BPM,VORP
+1,1,MIN,Karl-Anthony Towns\townska01,Kentucky,5,358,12307,8113,4209,992,.534,.396,.831,34.4,22.7,11.8,2.8,50.4,.197,4.8,21.1
+2,2,LAL,D'Angelo Russell\russeda01,Ohio State,5,317,9204,5532,1176,1666,.420,.356,.772,29.0,17.5,3.7,5.3,8.4,.044,0.3,5.5
+3,3,PHI,Jahlil Okafor\okafoja01,Duke,5,220,4480,2421,1103,212,.538,.222,.675,20.4,11.0,5.0,1.0,6.6,.070,-1.9,0.1
+4,4,NYK,Kristaps Porziņģis\porzikr01,,4,243,7578,4476,1857,350,.434,.358,.803,31.2,18.4,7.6,1.4,17.3,.109,1.2,6.0
+5,5,ORL,Mario Hezonja\hezonma01,,5,330,6107,2284,1026,415,.417,.319,.812,18.5,6.9,3.1,1.3,3.2,.025,-2.8,-1.2
+6,6,SAC,Willie Cauley-Stein\caulewi01,Kentucky,5,349,8187,3361,2194,553,.539,.211,.611,23.5,9.6,6.3,1.6,20.3,.119,0.1,4.3
+7,7,DEN,Emmanuel Mudiay\mudiaem01,,5,300,7176,3296,884,1139,.401,.323,.744,23.9,11.0,2.9,3.8,-0.2,-.001,-3.2,-2.2
+8,8,DET,Stanley Johnson\johnsst04,Arizona,5,310,6310,2045,1001,443,.374,.293,.755,20.4,6.6,3.2,1.4,3.4,.026,-2.9,-1.4
+9,9,CHO,Frank Kaminsky\kaminfr01,Wisconsin,5,321,7029,3136,1298,527,.422,.347,.750,21.9,9.8,4.0,1.6,12.4,.085,-0.6,2.5
+10,10,MIA,Justise Winslow\winslju01,Duke,5,241,6848,2181,1295,657,.417,.337,.646,28.4,9.0,5.4,2.7,7.7,.054,-1.8,0.3
+11,11,IND,Myles Turner\turnemy01,Texas,5,342,9689,4353,2276,421,.488,.357,.768,28.3,12.7,6.7,1.2,26.4,.131,0.6,6.3
+12,12,UTA,Trey Lyles\lylestr01,Kentucky,5,351,6322,2602,1488,375,.433,.341,.708,18.0,7.4,4.2,1.1,10.3,.078,-1.2,1.3
+13,13,PHO,Devin Booker\bookede01,Kentucky,5,342,11457,7683,1242,1610,.448,.354,.871,33.5,22.5,3.6,4.7,17.3,.073,-0.2,5.3
+14,14,OKC,Cameron Payne\payneca01,Murray State,5,161,2637,1001,305,406,.403,.344,.781,16.4,6.2,1.9,2.5,2.7,.049,-2.0,0.0
+15,15,ATL,Kelly Oubre\oubreke01,Kansas,5,348,8375,3783,1443,327,.431,.329,.778,24.1,10.9,4.1,0.9,12.1,.069,-1.9,0.2
+16,16,BOS,Terry Rozier\roziete01,Louisville,5,335,7597,3224,1249,890,.394,.371,.813,22.7,9.6,3.7,2.7,12.9,.082,-0.1,3.6
+17,17,MIL,Rashad Vaughn\vaughra01,UNLV,3,139,1671,423,158,75,.337,.313,.692,12.0,3.0,1.1,0.5,-0.6,-.017,-4.7,-1.2
+18,18,HOU,Sam Dekker\dekkesa01,Wisconsin,4,200,3096,1094,607,160,.478,.288,.606,15.5,5.5,3.0,0.8,5.4,.083,-1.4,0.5
+19,19,WAS,Jerian Grant\grantje02,Notre Dame,5,279,4998,1692,530,805,.411,.323,.770,17.9,6.1,1.9,2.9,8.3,.080,-1.6,0.5
+20,20,TOR,Delon Wright\wrighde01,Utah,5,271,5377,1965,829,780,.450,.342,.790,19.8,7.3,3.1,2.9,14.9,.133,2.1,5.5
+21,21,DAL,Justin Anderson\anderju01,Virginia,5,226,2964,1182,575,151,.413,.296,.774,13.1,5.2,2.5,0.7,4.6,.074,-1.4,0.5
+22,22,CHI,Bobby Portis\portibo01,Arkansas,5,315,6437,3215,1872,380,.456,.360,.754,20.4,10.2,5.9,1.2,10.8,.081,-1.3,1.1
+23,23,POR,Rondae Hollis-Jefferson\holliro01,Arizona,5,294,6652,2733,1658,566,.448,.213,.738,22.6,9.3,5.6,1.9,12.5,.090,-0.7,2.2
+24,24,CLE,Tyus Jones\jonesty01,Duke,5,312,5606,1733,483,1108,.431,.345,.803,18.0,5.6,1.5,3.6,11.4,.098,0.0,2.8
+25,25,MEM,Jarell Martin\martija01,LSU,4,184,2927,998,639,114,.434,.346,.766,15.9,5.4,3.5,0.6,3.2,.053,-4.3,-1.7
+26,26,SAS,Nikola Milutinov\milutni01,,,,,,,,,,,,,,,,,,
+27,27,LAL,Larry Nance\nancela02,Wyoming,5,315,7396,2562,2094,559,.537,.324,.695,23.5,8.1,6.6,1.8,20.4,.132,1.2,6.1
+28,28,BOS,R.J. Hunter\hunterj01,Georgia State University,4,45,395,133,46,19,.371,.295,.818,8.8,3.0,1.0,0.4,0.4,.051,-2.0,0.0
+29,29,BRK,Chris McCullough\mcculch01,Syracuse,3,59,532,194,112,15,.426,.306,.548,9.0,3.3,1.9,0.3,0.6,.054,-2.5,-0.1
+30,30,GSW,Kevon Looney\looneke01,UCLA,5,224,3121,979,832,214,.570,.150,.601,13.9,4.4,3.7,1.0,10.3,.158,-0.5,1.1
+31,31,MIN,Cedi Osman\osmande01,,3,202,5026,1947,708,390,.437,.364,.717,24.9,9.6,3.5,1.9,4.0,.038,-2.9,-1.2
+32,32,HOU,Montrezl Harrell\harremo01,Louisville,5,318,6643,4037,1570,424,.614,.100,.638,20.9,12.7,4.9,1.3,26.1,.189,2.6,7.7
+33,33,BOS,Jordan Mickey\mickejo01,LSU,3,64,482,152,128,17,.449,.118,.605,7.5,2.4,2.0,0.3,0.5,.050,-4.8,-0.3
+34,34,LAL,Anthony Brown\brownan02,Stanford,3,41,762,161,103,28,.328,.286,.850,18.6,3.9,2.5,0.7,-0.2,-.016,-5.1,-0.6
+35,35,PHI,Willy Hernangómez\hernawi01,,4,209,3006,1444,1130,218,.531,.330,.687,14.4,6.9,5.4,1.0,8.6,.137,0.1,1.6
+36,36,MIN,Rakeem Christmas\chrisra01,Syracuse,2,30,225,63,57,4,.467,,.724,7.5,2.1,1.9,0.1,0.5,.105,-4.7,-0.2
+37,37,PHI,Richaun Holmes\holmeri01,Bowling Green,5,270,5067,2268,1346,254,.583,.257,.724,18.8,8.4,5.0,0.9,17.3,.164,0.6,3.2
+38,38,DET,Darrun Hilliard\hillida01,Villanova,3,91,859,295,85,71,.377,.304,.747,9.4,3.2,0.9,0.8,0.3,.016,-4.7,-0.6
+39,39,CHO,Juan Pablo Vaulet\vauleju01,,,,,,,,,,,,,,,,,,
+40,40,MIA,Josh Richardson\richajo01,Tennessee,5,314,9642,3889,997,904,.426,.363,.818,30.7,12.4,3.2,2.9,17.9,.089,-0.3,4.2
+41,41,BRK,Pat Connaughton\connapa01,Notre Dame,5,283,4451,1356,787,358,.443,.344,.790,15.7,4.8,2.8,1.3,10.1,.109,-0.4,1.8
+42,42,UTA,Olivier Hanlan\hanlaol01,Boston College,,,,,,,,,,,,,,,,,
+43,43,IND,Joe Young\youngjo01,Oregon,3,127,1077,429,130,119,.393,.296,.768,8.5,3.4,1.0,0.9,0.4,.016,-4.1,-0.6
+44,44,PHO,Andrew Harrison\harrian01,Kentucky,3,145,2987,1012,287,399,.373,.294,.779,20.6,7.0,2.0,2.8,3.2,.051,-2.8,-0.6
+45,45,BOS,Marcus Thornton\thornma02,William & Mary,,,,,,,,,,,,,,,,,
+46,46,MIL,Norman Powell\powelno01,UCLA,5,307,5760,2640,728,400,.457,.361,.818,18.8,8.6,2.4,1.3,12.0,.100,-0.3,2.5
+47,47,PHI,Artūras Gudaitis\gudaiar01,,,,,,,,,,,,,,,,,,
+48,48,OKC,Dakari Johnson\johnsda04,Kentucky,1,31,161,55,34,8,.564,,.550,5.2,1.8,1.1,0.3,0.6,.178,-0.3,0.1
+49,49,WAS,Aaron White\whiteaa01,Iowa,,,,,,,,,,,,,,,,,
+50,50,ATL,Marcus Eriksson\eriksma01,,,,,,,,,,,,,,,,,,
+51,51,ORL,Tyler Harvey\harvety01,Eastern Washington,,,,,,,,,,,,,,,,,
+52,52,DAL,Satnam Singh Bhamara\singhsa01,,,,,,,,,,,,,,,,,,
+53,53,CLE,Sir'Dominic Pointer\pointsi01,St. John's,,,,,,,,,,,,,,,,,
+54,54,UTA,Dani Díez de la Faya\diezda01,,,,,,,,,,,,,,,,,,
+55,55,SAS,Cady Lalanne\lalanca01,UMass,,,,,,,,,,,,,,,,,
+56,56,NOP,Branden Dawson\dawsobr01,Michigan State,1,6,29,5,4,0,.400,,1.000,4.8,0.8,0.7,0.0,0.0,.069,-5.7,0.0
+57,57,DEN,Nikola Radičević\radicni01,,,,,,,,,,,,,,,,,,
+58,58,PHI,J.P. Tokoto\tokotjp01,UNC,,,,,,,,,,,,,,,,,
+59,59,ATL,Dimitrios Agravanis\agravdi01,,,,,,,,,,,,,,,,,,
+60,60,PHI,Luka Mitrović\mitrolu01,,,,,,,,,,,,,,,,,,
